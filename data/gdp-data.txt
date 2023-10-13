@@ -1,0 +1,127 @@
+the United States	26,854,599
+India	3,736,882
+Pakistan	376,493
+Nigeria	506,601
+the Philippines	440,901
+the United Kingdom	3,158,938
+Germany	4,308,854
+Uganda	49,792
+Canada	2,089,672
+Egypt	378,110
+France	2,923,489
+Australia	1,707,548
+Bangladesh	420,516
+Ghana	66,622
+Russia	2,062,649
+Thailand	574,231
+Italy	2,169,745
+South Africa	399,015
+Mexico	1,663,164
+Malaysia	447,026
+Netherlands	1,080,880
+Poland	748,887
+Sri Lanka	75,296
+Turkey	1,029,303
+Zimbabwe	29,931
+Iraq	267,893
+Brazil	2,081,235
+Spain	1,492,432
+China	19,373,586
+Sweden	599,052
+Kenya	118,130
+Cameroon	48,625
+Ukraine	148,712
+Belgium	624,248
+Israel	539,223
+Austria	515,199
+Romania	348,902
+Greece	239,300
+Sierra Leone	3,520
+Denmark	405,626
+Switzerland	869,601
+Morocco	138,781
+Norway	554,105
+Ireland	594,095
+New Zealand	251,969
+Madagascar	15,969
+Tanzania	85,421
+Finland	301,670
+Cambodia	30,628
+Papua New Guinea	31,362
+Hong Kong	382,854
+Liberia	4,375
+Jordan	52,061
+Portugal	267,721
+Czechia	330,483
+Japan	4,409,738
+Argentina	641,102
+Jamaica	17,254
+Croatia	78,881
+Algeria	206,007
+Myanmar	63,988
+Yemen	19,529
+Colombia	334,689
+Hungary	188,505
+Puerto Rico	120,838
+Zambia	29,272
+Bulgaria	100,635
+Kazakhstan	245,695
+Lebanon	24,494
+Chile	358,557
+Rwanda	13,149
+Slovakia	127,533
+Slovenia	68,108
+Trinidad and Tobago	28,223
+Lithuania	78,346
+Latvia	47,398
+Nepal	42,097
+Uruguay	77,313
+Guyana	16,309
+Estonia	41,551
+Botswana	19,572
+Cyprus	30,864
+Panama	77,257
+Eswatini	4,824
+Malawi	11,277
+Lesotho	2,584
+Suriname	3,470
+Malta	19,405
+Namibia	13,486
+Luxembourg	86,971
+Bahamas	14,114
+Belize	3,162
+Costa Rica	77,777
+Mauritius	14,570
+Vanuatu	1,064
+Fiji	5,385
+Solomon Islands	1,701
+Guam	6,123
+Brunei	15,988
+Saint Vincent and the Grenadines	1,039
+the U.S. Virgin Islands	4204
+Grenada	1,274
+Samoa	898
+Isle of Man	7315
+Saint Lucia	2,262
+the Northern Mariana Islands	1182
+Antigua and Barbuda	1,864
+Federated States of Micronesia	404
+Bermuda	7286
+Dominica	681
+Marshall Islands	291
+American Samoa	709
+Aruba	3,633
+The Gambia	2038
+Saint Kitts and Nevis	1,052
+Cayman Islands	5898
+Seychelles	1,950
+Tonga	541
+Gibraltar	1850
+Kiribati	248
+the British Virgin Islands	1027
+Palau	262
+Andorra	3,669
+Anguilla	258
+Nauru	151
+Cook Islands	283
+Montserrat	68

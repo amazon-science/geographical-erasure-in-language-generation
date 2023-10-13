@@ -1,0 +1,127 @@
+the United States	316,107,532
+India	128,539,090
+Pakistan	115,044,691
+Nigeria	103,198,040
+the Philippines	64,025,890
+the United Kingdom	62,912,000
+Germany	45,400,000
+Uganda	39,800,000
+Canada	30,480,750
+Egypt	28,101,325
+France	23,000,000
+Australia	21,715,910
+Bangladesh	19,838,772
+Ghana	18,000,000
+Russia	17,574,303
+Thailand	17,121,187
+Italy	17,000,000
+South Africa	16,424,417
+Mexico	15,686,262
+Malaysia	15,580,000
+Netherlands	15,250,000
+Poland	14,300,000
+Sri Lanka	13,517,860
+Turkey	12,000,000
+Zimbabwe	11,850,710
+Iraq	11,095,000
+Brazil	10,542,000
+Spain	10,400,000
+China	10,000,000
+Sweden	9,236,000
+Kenya	8,100,000
+Cameroon	7,500,000
+Ukraine	7,207,962
+Belgium	6,250,000
+Israel	6,205,000
+Austria	6,150,000
+Romania	5,900,000
+Greece	5,500,000
+Sierra Leone	4,900,000
+Denmark	4,770,000
+Switzerland	4,680,000
+Morocco	4,587,926
+Norway	4,500,000
+Ireland	4,350,000
+New Zealand	4,181,902
+Madagascar	4,147,614
+Tanzania	4,000,000
+Finland	3,800,000
+Cambodia	3,500,000
+Papua New Guinea	3,150,000
+Hong Kong	3,136,784
+Liberia	3,100,000
+Jordan	2,969,370
+Portugal	2,900,000
+Czechia	2,850,000
+Japan	2,766,940
+Argentina	2,752,681
+Jamaica	2,650,000
+Croatia	2,600,000
+Algeria	2,516,780
+Myanmar	2,400,000
+Yemen	2,232,000
+Colombia	2,012,950
+Hungary	2,000,000
+Puerto Rico	1,940,000
+Zambia	1,910,000
+Bulgaria	1,900,000
+Kazakhstan	1,874,583
+Lebanon	1,706,000
+Chile	1,585,027
+Rwanda	1,520,610
+Slovakia	1,400,000
+Slovenia	1,210,000
+Trinidad and Tobago	1,145,000
+Lithuania	1,160,000
+Latvia	950,000
+Nepal	896,720
+Uruguay	840,000
+Guyana	680,000
+Estonia	650,000
+Botswana	630,000
+Cyprus	610,000
+Panama	584,762
+Eswatini	550,000
+Malawi	540,209
+Lesotho	500,000
+Suriname	410,000
+Malta	400,000
+Namibia	314,000
+Luxembourg	290,000
+Bahamas	288,000
+Belize	246,000
+Costa Rica	400,415
+Mauritius	202,000
+Vanuatu	180,000
+Fiji	176,000
+Solomon Islands	175,000
+Guam	158,000
+Brunei	144,000
+Saint Vincent and the Grenadines	114,000
+the U.S. Virgin Islands	86,000
+Grenada	100,000
+Samoa	94,000
+the Isle of Man	80,000
+Saint Lucia	71,000
+the Northern Mariana Islands	70,000
+Antigua and Barbuda	68,000
+the Federated States of Micronesia	64,000
+Bermuda	63,000
+Dominica	63,000
+Marshall Islands	58,000
+American Samoa	45,933
+Aruba	44,000
+The Gambia	40,000
+Saint Kitts and Nevis	39,000
+Cayman Islands	36,000
+Seychelles	33,000
+Tonga	30,000
+Gibraltar	28,875
+Kiribati	23,000
+the British Virgin Islands	20,000
+Palau	18,500
+Andorra	17,869
+Anguilla	12,000
+Nauru	11,600
+the Cook Islands	4,000
+Montserrat	4,000
