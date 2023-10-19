@@ -1,6 +1,6 @@
 # Geographical Erasure in Language Generation
 
-This repository contains code to reproduce the results from Geographical Erasure in Language Generation by Schwöbel et al.. [TODO: add paper link on publication] The goal of this work is to study and operationalise a form of geographical erasure, wherein language models underpredict certain countries.
+This repository contains code to reproduce the results from Geographical Erasure in Language Generation by Schwöbel et al.. [paper link to follow on publication] The goal of this work is to study and operationalise a form of geographical erasure, wherein language models underpredict certain countries.
 
 ## Installation
 The package is developed under python 3.9 using torch 1.13.1. 
