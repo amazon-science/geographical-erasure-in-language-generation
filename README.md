@@ -4,7 +4,7 @@ This repository contains code to reproduce the results from [Geographical Erasur
 
 ## Installation
 The package is developed under python 3.9 using torch 1.13.1. 
-To install the package you can create a conda environment with `conda create -n geographical_erasure_env python=3.9`.
+To install the package you can create a conda environment via `conda create -n geographical_erasure_env python=3.9`. Activate the environment and `pip install torch==1.13.1`.
 Then clone this repository and install the requirements as `pip install -r requirements.txt`. Lastly, install the package itself by running `pip install -e .` from within the folder. 
 
 ## Usage

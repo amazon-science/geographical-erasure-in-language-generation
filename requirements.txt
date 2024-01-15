@@ -1,5 +1,4 @@
-torch==1.13.1
-torch-scatter -i https://data.pyg.org/whl/torch-2.0.0+cpu.html
+torch-scatter -i https://data.pyg.org/whl/torch-1.13.1+cpu.html
 transformers==4.36.0
 tqdm==4.65.0
 pickle5==0.0.11
